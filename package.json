@@ -1,0 +1,12 @@
+{
+  "name": "flipper-plugin-dbbrowser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "icon": "database",
+  "title": "Database Browser",
+  "bugs": {
+    "email": "lijy91@foxmail.com"
+  },
+  "dependencies": {}
+}
