@@ -1,8 +1,10 @@
 {
   "name": "flipper-plugin-dbbrowser",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "description": "Database Browser for flipper",
   "main": "index.js",
   "license": "MIT",
+  "keywords": ["flipper-plugin"],
   "icon": "database",
   "title": "Database Browser",
   "bugs": {
