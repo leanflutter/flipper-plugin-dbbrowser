@@ -1,3 +1,6 @@
+# Bundling output
+dist
+
 # Logs
 logs
 *.log
