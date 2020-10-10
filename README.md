@@ -1,12 +1,9 @@
 # flipper-plugin-dbbrowser
 
 [![npm version][npm-image]][npm-url]
-[![Join the chat][telegram-image]][telegram-url]
 
 [npm-image]: https://img.shields.io/npm/v/flipper-plugin-dbbrowser.svg
 [npm-url]: https://www.npmjs.com/package/flipper-plugin-dbbrowser
-[telegram-image]:https://img.shields.io/badge/chat-on%20telegram-blue.svg
-[telegram-url]: https://t.me/flipper4flutter
 
 English | [简体中文](./README.zh_CN.md)
 
@@ -32,13 +29,9 @@ You can find it, alongside other available Flipper plugins, by clicking on "Mana
 
 ## Related Links
 
-- https://github.com/blankapp/flutter_flipperkit
-- https://github.com/blankapp/flutter_flipperkit_plugins
-- https://github.com/blankapp/flutter_flipperkit_examples
-
-## Discussion
-
-If you have any suggestions or questions about this project, you can discuss it by [Telegram Group](https://t.me/flipper4flutter) with me.
+- https://github.com/leanflutter/flutter_flipperkit
+- https://github.com/leanflutter/flutter_flipperkit_plugins
+- https://github.com/leanflutter/flutter_flipperkit_examples
 
 ## License
 
