@@ -2,7 +2,7 @@
   "$schema": "https://fbflipper.com/schemas/plugin-package/v2.json",
   "name": "flipper-plugin-dbbrowser",
   "id": "flipper-plugin-dbbrowser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Database Browser for flipper",
   "main": "dist/bundle.js",
   "flipperBundlerEntry": "index.js",
@@ -23,6 +23,7 @@
     "flipper-pkg": "latest"
   },
   "scripts": {
-    "prepack": "flipper-pkg lint && flipper-pkg bundle"
+    "prepack": "flipper-pkg lint && flipper-pkg bundle",
+    "pack": "flipper-pkg pack"
   }
 }

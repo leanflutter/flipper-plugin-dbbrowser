@@ -11,7 +11,7 @@ import {
 } from 'flipper';
 
 class FlipperDatabaseBrowserPlugin extends FlipperPlugin<State, *, PersistedState> {
-  static id = 'DatabaseBrowser';
+  static id = 'flipper-plugin-dbbrowser';
 
   constructor(props: PluginProps<State, *, PersistedState>) {
     super(props);
